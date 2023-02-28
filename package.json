@@ -3,6 +3,7 @@
   "displayName": "torte theme",
   "description": "Torte Vim Theme",
   "version": "0.0.1",
+  "publisher": "GabrielVillalonga",
   "repository": {
     "url": "https://github.com/gabivlj/torte"
   },
